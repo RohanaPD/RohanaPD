@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohana Dasanayaka
 - 👀 I’m interested in programming, specially with PHP.
-- 🌱 I’m currently learning DatabScience
+- 🌱 I’m currently learning Data Science
 - 📫 You may reach me via rohanadasanayaka@gmail.com ...
 
 <!---
